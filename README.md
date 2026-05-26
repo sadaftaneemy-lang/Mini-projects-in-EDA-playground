@@ -7,4 +7,4 @@ The design is simulated using EDA Playground and follows the recommended coding 
 
 - EDA Playground
 - Verilog HDL
-- Yosys Simulato
+- Yosys Simulator
