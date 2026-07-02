@@ -31,7 +31,7 @@ When the clock edge comes
 
 q = d
 
-** Why is the block called bad_blocking? **
+**Why is the block called bad_blocking ?**
 
 Because inside a sequential (always @(posedge clk)) block I used "=", This is called a blocking assignment.
 
