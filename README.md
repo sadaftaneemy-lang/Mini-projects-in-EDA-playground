@@ -18,12 +18,15 @@ The design is simulated using EDA Playground and follows the recommended coding 
 <img width="492" height="317" alt="image" src="https://github.com/user-attachments/assets/fdf4aca2-2117-4d59-aa65-30eee4ab2aee" />
 
 From the code "always @(posedge clk)" means whenever the clock changes from 0 → 1 (positive edge), do the work inside.
+
 Here
+
 clk  → Clock input
 
 d    → Data input
 
 q    → Stored output
+
 When the clock edge comes
 
 q = d
