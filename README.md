@@ -15,3 +15,4 @@ The design is simulated using EDA Playground and follows the recommended coding 
 <img width="1280" height="751" alt="image" src="https://github.com/user-attachments/assets/d75ced0f-cfd8-4d67-86d7-f86d5f7bbfe0" />
 
 ## Output
+<img width="492" height="317" alt="image" src="https://github.com/user-attachments/assets/fdf4aca2-2117-4d59-aa65-30eee4ab2aee" />
