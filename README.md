@@ -42,3 +42,5 @@ For sequential circuits, we should use " <= " , This is a non-blocking assignmen
 <img width="1280" height="756" alt="image" src="https://github.com/user-attachments/assets/04198f8f-1b94-46a8-a938-0e5e0add81cb" />
 
 ## Output
+<img width="465" height="311" alt="image" src="https://github.com/user-attachments/assets/52c31fd4-2a56-489b-a184-163ab56818b1" />
+
