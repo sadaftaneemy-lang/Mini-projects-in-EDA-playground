@@ -36,3 +36,5 @@ q = d
 Because inside a sequential (always @(posedge clk)) block I used "=", This is called a blocking assignment.
 
 For sequential circuits, we should use " <= " , This is a non-blocking assignment.
+
+# Good_blocking
