@@ -38,3 +38,7 @@ Because inside a sequential (always @(posedge clk)) block I used "=", This is ca
 For sequential circuits, we should use " <= " , This is a non-blocking assignment.
 
 # Good_blocking
+## Program
+<img width="1280" height="756" alt="image" src="https://github.com/user-attachments/assets/04198f8f-1b94-46a8-a938-0e5e0add81cb" />
+
+## Output
