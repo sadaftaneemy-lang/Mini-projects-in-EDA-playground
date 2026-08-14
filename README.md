@@ -71,6 +71,7 @@ module good_blocking (
 Defines the name of the Verilog module.
 
 **2. Inputs and Output**
+
 input wire clk,
 input wire d,
 output reg q
@@ -79,6 +80,7 @@ d → Data input
 q → Output of the flip-flop
 
 **3. Always Block**
+
 always @(posedge clk)
 
 The statement inside the block executes whenever the clock changes from 0 to 1.
@@ -86,6 +88,7 @@ The statement inside the block executes whenever the clock changes from 0 to 1.
 This is called the positive/rising edge of the clock.
 
 **4. Non-Blocking Assignment**
+
 q <= d;
 
 The non-blocking assignment operator (<=) is commonly used for sequential logic.
