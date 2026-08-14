@@ -5,18 +5,20 @@ The design is simulated using EDA Playground and follows the recommended coding 
 
 ## 🔄 Design Flow
 Verilog RTL
-     ↓
-     
+
+     ↓  
    Yosys
-     ↓
-     
+   
+     ↓     
 RTL Synthesis
+
      ↓
 D Flip-Flop Recognition
+
      ↓ 
     $dff
-     ↓
-     
+    
+     ↓ 
 Schematic Generation
 
 ## 💻 Tool Used
