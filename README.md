@@ -66,6 +66,7 @@ For sequential circuits, we should use " <= " , This is a non-blocking assignmen
 
 ## 🔍 Code Explanation
 **1. Module Declaration** 
+
 module good_blocking (
 
 Defines the name of the Verilog module.
