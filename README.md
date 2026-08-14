@@ -64,6 +64,34 @@ For sequential circuits, we should use " <= " , This is a non-blocking assignmen
 ## Program
 <img width="1280" height="756" alt="image" src="https://github.com/user-attachments/assets/04198f8f-1b94-46a8-a938-0e5e0add81cb" />
 
+## 🔍 Code Explanation
+**1. Module Declaration** 
+module good_blocking (
+
+Defines the name of the Verilog module.
+
+**2. Inputs and Output**
+input wire clk,
+input wire d,
+output reg q
+clk → Clock input
+d → Data input
+q → Output of the flip-flop
+
+**3. Always Block**
+always @(posedge clk)
+
+The statement inside the block executes whenever the clock changes from 0 to 1.
+
+This is called the positive/rising edge of the clock.
+
+**4. Non-Blocking Assignment**
+q <= d;
+
+The non-blocking assignment operator (<=) is commonly used for sequential logic.
+
+At every rising edge of the clock, the value of d is captured and stored in q.
+
 ## Output
 <img width="465" height="311" alt="image" src="https://github.com/user-attachments/assets/52c31fd4-2a56-489b-a184-163ab56818b1" />
 
