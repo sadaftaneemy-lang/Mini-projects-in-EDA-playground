@@ -22,6 +22,7 @@ D Flip-Flop Recognition
     
      ↓ 
 Schematic Generation
+```
 
 ## 💻 Tool Used
 
