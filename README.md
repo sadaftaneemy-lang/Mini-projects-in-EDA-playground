@@ -4,7 +4,10 @@ This project demonstrates the correct use of assignments in a sequential circuit
 The design is simulated using EDA Playground and follows the recommended coding style for sequential logic
 
 ## 🔄 Design Flow
+
+```
 Verilog RTL
+
      ↓  
    Yosys
    
