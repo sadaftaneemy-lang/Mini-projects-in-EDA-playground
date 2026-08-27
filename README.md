@@ -5,7 +5,6 @@ The design is simulated using EDA Playground and follows the recommended coding 
 
 ## 🔄 Design Flow
 Verilog RTL
-
      ↓  
    Yosys
    
